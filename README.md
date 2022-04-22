@@ -30,7 +30,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Start storybook
 
 ## What you have to do
-You can use any style/css library you want, but if possible use StyledComponents for your own css
+You can use any style/css library you want, but if possible use StyledComponents for your own css.
+Don't use a component library, you must create every component you need (also simple components like buttons).
 
 Application: 
 - Create a basic application that uses this rest api https://gorest.co.in/
