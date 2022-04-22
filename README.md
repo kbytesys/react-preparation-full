@@ -31,6 +31,7 @@ Start storybook
 
 ## What you have to do
 You can use any style/css library you want, but if possible use StyledComponents for your own css.
+
 Don't use a component library, you must create every component you need (also simple components like buttons).
 
 Application: 
