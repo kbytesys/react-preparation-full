@@ -38,5 +38,6 @@ Application:
 - Create a basic application that uses this rest api https://gorest.co.in/
 - List and open the detail of users, posts and comments
 - Create unit tests (100% coverage)
-- For each component created, create also a storybook story
+- Use Redux or Redux/Toolkit for the state management
+- For each component created, create also a storybook story (optional)
 - Integrate this graphql api: https://studio.apollographql.com/public/SpaceX-pxxbxen/home?variant=current
