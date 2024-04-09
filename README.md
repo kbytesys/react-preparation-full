@@ -34,7 +34,7 @@ You can use any style/css library you want, but if possible use StyledComponents
 
 Don't use a component library, you must create every component you need (also simple components like buttons).
 
-Application: 
+Application:
 - Create a basic application that uses this rest api https://gorest.co.in/
 - List and open the detail of users, posts and comments
 - Create unit tests (100% coverage)
